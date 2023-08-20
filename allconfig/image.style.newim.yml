@@ -1,0 +1,7 @@
+uuid: 4e55810f-1058-406b-8175-3196404c0aef
+langcode: en
+status: true
+dependencies: {  }
+name: newim
+label: newim
+effects: {  }
