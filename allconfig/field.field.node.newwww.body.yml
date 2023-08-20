@@ -1,0 +1,23 @@
+uuid: 424adfaa-476b-4938-ad36-1867165aa9ce
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.newwww
+  module:
+    - text
+id: node.newwww.body
+field_name: body
+entity_type: node
+bundle: newwww
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary
